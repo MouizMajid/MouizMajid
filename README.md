@@ -26,9 +26,9 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**RALPH**](https://github.com/MouizMajid/htvXI-ralph) | AI voice check-in for paediatric ERs + staff dashboard | React · TypeScript · Tailwind |
+| [**RALPH**](https://www.ralphismyfavtmntturtle.cooking/kiosk) | AI voice check-in for paediatric ERs + staff dashboard | React · TypeScript · Tailwind |
 | [**VRMM**](https://vrmm.eng.uwo.ca) | Research platform for Western's FAST group, live on the university domain | React · Spring Boot · nginx |
-| [**Fraud Detection Pipeline**]([https://github.com/](https://github.com/ind1254/Fraud-and-Anomaly-Detection-for-Anti-Money-Laundering-System-)) | ML Pipeline that flags risky transactions on a 6.3M row PaySim dataset | Python · scikit-learn · pandas |
+| [**Fraud Detection Pipeline**](https://github.com/ind1254/Fraud-and-Anomaly-Detection-for-Anti-Money-Laundering-System-)) | ML Pipeline that flags risky transactions on a 6.3M row PaySim dataset | Python · scikit-learn · pandas |
 
 ---
 
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MouizMajid&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=MouizMajid&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
